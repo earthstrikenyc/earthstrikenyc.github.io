@@ -1,0 +1,44 @@
+body {
+	margin: 40px 0;
+	display: flex;
+	justify-content: center;
+}
+
+* {
+	font-family: sans-serif;
+}
+
+header.masthead {
+	background: #66b588;
+	padding: 20px 60px;
+
+	text-align: center;
+	color: white;
+}
+
+header.masthead > h1 {
+	text-transform: uppercase;
+	font-size: 96px;
+	margin: 20px 0;
+}
+
+header.masthead > h2 {
+	font-size: 28px;
+}
+
+header.masthead a {
+	color: white;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.container {
+	max-width: 800px;
+}
+
+h1 {
+	font-size: 48px;
+}
