@@ -12,10 +12,28 @@
 	"buffers":
 	[
 		{
+			"file": "principles.html",
+			"settings":
+			{
+				"buffer_size": 3158,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1045,
+				"buffer_size": 1566,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "faq.html",
+			"settings":
+			{
+				"buffer_size": 7570,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -24,16 +42,7 @@
 			"file": "demands.html",
 			"settings":
 			{
-				"buffer_size": 3893,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "principles.html",
-			"settings":
-			{
-				"buffer_size": 2767,
+				"buffer_size": 4281,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -42,25 +51,7 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 931,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/style.css",
-			"settings":
-			{
-				"buffer_size": 959,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "CNAME",
-			"settings":
-			{
-				"buffer_size": 18,
+				"buffer_size": 1319,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -130,10 +121,17 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/rs/node/earthstrikenyc.github.io"
+		"/Users/adminmac1/node/earthstrikenyc.github.io",
+		"/Users/adminmac1/node/earthstrikenyc.github.io/static"
 	],
 	"file_history":
 	[
+		"/Users/adminmac1/node/earthstrikenyc.github.io/css/style.css",
+		"/Users/adminmac1/node/earthstrikenyc.github.io/CNAME",
+		"/Users/adminmac1/node/earthstrikenyc.github.io/faq.html",
+		"/Users/adminmac1/node/earthstrikenyc.github.io/demands.html",
+		"/Users/adminmac1/node/earthstrikenyc.github.io/contact.html",
+		"/Users/adminmac1/node/earthstrikenyc.github.io/index.html",
 		"/Users/rs/node/opportunities.log",
 		"/Users/rs/node/app.log",
 		"/Users/rs/node/earthstrikenyc.github.io/README.md",
@@ -166,13 +164,14 @@
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
 		"height": 158.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -180,6 +179,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"general",
 			"profit",
 			"arbitrageminus",
 			"profit",
@@ -206,57 +206,30 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "principles.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1045,
+						"buffer_size": 3158,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1021,
-								853
+								35,
+								35
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "demands.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3893,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3869,
-								3869
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -266,20 +239,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "principles.html",
+					"buffer": 1,
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2767,
+						"buffer_size": 1566,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2743,
-								2743
+								35,
+								35
 							]
 						],
 						"settings":
@@ -295,25 +268,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "contact.html",
+					"buffer": 2,
+					"file": "faq.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 931,
+						"buffer_size": 7570,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								575,
-								575
+								35,
+								35
 							]
 						],
 						"settings":
 						{
-							"_anf_new": "",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
@@ -325,25 +297,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "css/style.css",
+					"buffer": 3,
+					"file": "demands.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 959,
+						"buffer_size": 4281,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								797,
-								797
+								35,
+								35
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -353,25 +326,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "CNAME",
+					"buffer": 4,
+					"file": "contact.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18,
+						"buffer_size": 1319,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18,
-								18
+								35,
+								35
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -435,6 +409,42 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"faq",
+				"faq.html"
+			],
+			[
+				"dem",
+				"demands.html"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"pri",
+				"principles.html"
+			],
+			[
+				"fa",
+				"faq.html"
+			],
+			[
+				"deman",
+				"demands.html"
+			],
+			[
+				"conta",
+				"contact.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
 			[
 				"prin",
 				"principles.html"
@@ -530,14 +540,6 @@
 			[
 				"e",
 				".env"
-			],
-			[
-				"ind",
-				"index.js"
-			],
-			[
-				"inde",
-				"index.js"
 			],
 			[
 				"authe",
